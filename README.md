@@ -1,1 +1,13 @@
-# CS-340---Client-Server-Development
+# CS-340-Client-Server-Development Final Journal
+
+**How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+
+When I write a program with maintainability in mind I focus on creating objects that can pass through multiple functions. Its important to make the main code as straightforward as possible and put the bulk of coding and defining functions in other places. Like in my CRUD code, the main Python functions were very simple and straightforward but when my Jupyter code passed through it I was able to get a wide variety of results. This also helps with adaptability, because I can make changes to code in one area instead of multiple ares to explore different outcomes. To me readability means ordering your code to have a natural flow on the screen, such as making a function create an object should come before the function where you use the object, and making thorough comments that tell the reader what they are looking at.
+
+**How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+
+As a computer scientist, I approach a problem by first defining what problem I am trying to solve then methodically buildin gthe tools needed to solve it. For this project I started by breaking the problem down into smaller, logical components and outline a plan to solve each part. For future projects I need to design the architecture with scalability in mind from the start, using techniques like database replication, sharding, or caching if needed. The database for this project was already picked but for future projects I will need to select the appropriate database technology for the needed project.
+
+**What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+
+The work of computer scientists is vital for many reasons. Such as, designing and developing software applications and systems. They write code, build user interfaces, and ensure the functionality and reliability of software products. They design and optimize computer systems and networks for performance, scalability, and reliability. Through data analysis, patterns and trends related to customer preferences, inventory turnover, and market demand can be identified. All of this can help any organiziation run as efficiently and intelligently as possible. 
